@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22363270/README.md)
 # AvtoCar Solution
 
 Сайт-візитка для підбору автозапчастин з формою заявки.  
